@@ -23,5 +23,12 @@ public class MyTest2
 	  {
 		  Reporter.log("tc006 executed",true);
 	  }
+	  
+	  @Test
+	  public void tc007()
+	  {
+		  Reporter.log("tc007 executed",true);
+	  }
+
 
 }
